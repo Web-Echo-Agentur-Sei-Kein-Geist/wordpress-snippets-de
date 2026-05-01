@@ -341,4 +341,4 @@ MIT — frei nutzbar, auch in Kundenprojekten. Kein Attributions-Pflicht.
 ## Maintainer
 
 [web-echo.ch](https://web-echo.ch) — SEO- & WordPress-Agentur, Schweiz  
-Fehler gefunden? Pull Request oder [Issue](https://github.com/simple-online-marketing/wordpress-snippets-de/issues) öffnen.
+Fehler gefunden? Pull Request oder [Issue](https://github.com/Web-Echo-Agentur-Sei-Kein-Geist/wordpress-snippets-de/issues) öffnen.
